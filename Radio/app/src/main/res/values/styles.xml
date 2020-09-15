@@ -1,0 +1,27 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:windowShowWallpaper">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+    </style>
+
+    <style name="radio_seekbar">
+        <item name="android:background">@null</item>
+        <item name="android:progressDrawable">@drawable/fm_day_875_1080</item>
+        <item name="android:thumb">@drawable/radio_thumb</item>
+        <item name="android:thumbOffset">-30px</item>
+        <item name="android:paddingLeft">0px</item>
+        <item name="android:paddingRight">0px</item>
+        <item name="android:paddingTop">0px</item>
+        <item name="android:paddingBottom">0px</item>
+        <item name="android:paddingStart">0px</item>
+        <item name="android:paddingEnd">0px</item>
+    </style>
+
+</resources>
