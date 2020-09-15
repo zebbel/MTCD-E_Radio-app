@@ -1,0 +1,26 @@
+ 87.50 _ ____   0.000 ______     (c) UKW/TV-Arbeitskreis der AGDX  www.fmlist.org September 14, 2020, 10:00
+ 87.80 H 4F04   0.500 JN47SD     Radio FM1,Vaduz/Schlosswald Erbi 
+ 88.20 H 43B1   0.120 JN47SD     Radio SRF 1,Vaduz/Schlosswald Erbi 
+ 88.80 V 9201   0.050 JN47SB     Radio L,Balzers Maels Alp Almeind 
+       H        0.020 JN47SE     ,Nendeln/Bürstwald (c)
+ 89.20 H 9201   0.500 JN47RD     Radio L,Buchs/Buchserberg-Hinterberg [SUI sg] 
+ 91.40 H        0.020 JN47SE     ,Nendeln/Bürstwald (c)
+ 91.70 H 43B2   0.120 JN47SD     Radio SRF 2 Kultur,Vaduz/Schlosswald Erbi 
+ 92.40 H        0.050 JN47SC     ,Steg/Sücka (p)
+ 94.10 H 43E1   0.120 JN47SD     RSI Rete Uno,Vaduz/Schlosswald Erbi 
+ 94.40 H        0.020 JN47SE     ,Nendeln/Bürstwald (c)
+ 95.00 V        0.020 JN47SB     ,Balzers Maels Alp Almeind (c)
+ 96.60 V 9201   0.025 JN47SC     Radio L,Steg/Sücka 
+ 96.90 H 9201   0.100 JN47SD     Radio L,Vaduz/Schlosswald Erbi 
+ 97.80 H        0.050 JN47SC     ,Steg/Sücka (p)
+ 97.90 V        0.100 JN47RA     ,Vilters-Targön [SUI sg] (p)
+ 98.60 H 43B3   0.120 JN47SD     Radio SRF 3,Vaduz/Schlosswald Erbi 
+100.20 V 9201   0.050 JN47SE     Radio L,Nendeln/Mauerröfe 
+100.30 H        0.050 JN47SC     ,Steg/Sücka (p)
+100.80 H        0.500 JN47SD     ,Vaduz/Schlosswald Erbi (p)
+103.40 V 9201   0.100 JN47RA     Radio L,Vilters-Targön [SUI sg] 
+103.70 H        0.100 JN47SE     ,Nendeln/Bürstwald (c)
+103.80 H        0.500 JN47RD     ,Buchs/Buchserberg-Hinterberg [SUI sg] (p)
+106.10 M 9201   1.000 JN47SH     Radio L,Rüthi/Bismer/Buoll [SUI sg] 
+106.80 H        0.020 JN47SE     ,Nendeln/Bürstwald (c)
+107.40 H        0.050 JN47SC     ,Steg/Sücka (p)

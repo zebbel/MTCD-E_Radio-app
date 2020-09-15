@@ -1,0 +1,10 @@
+ 87.50 _ ____   0.000 ______     (c) UKW/TV-Arbeitskreis der AGDX  www.fmlist.org September 14, 2020, 10:00
+ 50.41 V        0.005            ZB2SIX,Gibraltar IM76HD 
+ 89.40 H C497   0.200 IM76HD     BFBS Radio 2,North Mole 
+ 91.30 H A201   0.200 IM76HD     Radio Gibraltar,North Mole 
+ 92.60 H A201   1.000 IM76HC     Radio Gibraltar,O'Hara's Battery 
+ 93.50 H C095   0.200 IM76HD     BFBS Gibraltar,North Mole 
+ 97.80 H C095   1.000 IM76HC     BFBS Gibraltar,O'Hara's Battery 
+ 99.20                IM76HC     Rock Radio,O'Hara's Battery (i)
+ 99.50 H C497   1.000 IM76HC     BFBS Radio 2,O'Hara's Battery 
+100.50 H A202   1.000 IM76HC     Radio Gibraltar Plus,O'Hara's Battery 

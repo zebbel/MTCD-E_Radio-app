@@ -1,0 +1,34 @@
+ 87.50 _ ____   0.000 ______     (c) UKW/TV-Arbeitskreis der AGDX  www.fmlist.org September 14, 2020, 10:00
+ 88.20 V        0.100 JN33QR     Radio Maria,Monaco/Avenue Hector Otto (i)
+ 90.30 H F225  50.000 JN33QT     M Radio,Col de la Madone [F 06] 
+ 90.60 V 1281   2.000 JN33QS     Medi 1,Mont Agel/Cabane [F 06] 
+ 91.40 V F224   0.100 JN33QS     (blank carrier),Mont Agel/Cabane [F 06] (i)
+ 92.70 V 5212   0.100 JN33QR     (blank carrier),Monaco/Immeuble Herculis (i)
+ 93.20   F841   0.200 JN33QS     Jazz Radio,Mont Agel/Cabane [F 06] 
+ 93.50 H F218  50.000 JN33QT     Nostalgie,Col de la Madone [F 06] 
+ 93.80 V F218   1.000 JN33QS     Nostalgie,Mont Agel/Cabane [F 06] 
+ 94.50 V B215   0.100 JN33QR     Radio Pitchoun,Monaco/Avenue Hector Otto 
+ 95.10 V F215   0.100 JN33RR     RTL 2,Monaco/Musee oceanographique 
+ 95.40 V B1C7   1.000 JN33QS     Radio Monaco,Mont Agel/Cabane [F 06] 
+ 95.70 V F22F   0.150 JN33QS     Jazz Radio,Mont Agel/TMC [F 06] 
+ 96.10 V F22C   0.700 JN33QS     Radio FG,Mont Agel/Cabane [F 06] 
+ 96.40 V F224   0.300 JN33QS     Cherie FM,Mont Agel/Cabane [F 06] 
+ 96.70 V F4E9   0.050 JN33QR     Radio Ethic,Monaco/Avenue Hector Otto 
+ 97.90 V F650   0.200 JN33QS     Sud Radio,Mont Agel/TMC [F 06] 
+ 98.20 V B1C7   0.500 JN33QS     Radio Monaco,Mont Agel/Cabane [F 06] 
+ 98.50 H F216  50.000 JN33QT     RMC,Col de la Madone [F 06] 
+ 98.80 V F216   0.100 JN33QR     RMC,Monaco/Immeuble Herculis 
+ 99.10 V 5211   0.030 JN33QR     Radio 105,Monaco/Avenue Hector Otto 
+100.90 V        1.000 JN33QS     ,Mont Agel/Cabane [F 06] (c)
+101.10 V F217   0.150 JN33QS     Fun Radio,Mont Agel/Cabane [F 06] 
+102.10   B215   0.150 JN33QS     Radio Pitchoun,Mont Agel/TMC [F 06] 
+       V        0.100 JN33QR     ,Monaco/Immeuble Herculis (c)
+102.40 V F226   0.300 JN33QS     Rire et Chansons,Mont Agel/Cabane [F 06] 
+102.70 V F221  50.000 JN33QS     Radio Classique,Mont Agel/TMC [F 06] 
+103.00 V F212   1.500 JN33QS     RFM,Mont Agel/Cabane [F 06] 
+103.30 V 5264   0.400 JN33RR     RDS - Radio Dimensione Suono,Monaco/Musee oceanographique 
+104.50 V F224   0.100 JN33RR     Cherie FM,Monaco/Musee oceanographique 
+106.30 V B101   1.000 JN33RR     Riviera Radio,Monaco/Musee oceanographique 
+106.50 H B101  10.000 JN33QT     Riviera Radio,Col de la Madone [F 06] 
+106.80 V 5213   1.000 JN33QS     RMC Radio Monte Carlo,Mont Agel/TMC [F 06] 
+107.40 V 5213   1.000 JN33QR     RMC Radio Monte Carlo,Monaco/Immeuble Herculis (i)

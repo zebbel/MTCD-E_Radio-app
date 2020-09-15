@@ -1,0 +1,5 @@
+ 87.50 _ ____   0.000 ______     (c) UKW/TV-Arbeitskreis der AGDX  www.fmlist.org September 14, 2020, 10:00
+ 93.30   5299  10.000 JN61FV     Radio Zeta,Citta del Vaticano/Palazzina Leone XIII (CVA) 
+ 96.30   425A  10.000 JN61FV     Radio inBlu,Citta del Vaticano/Palazzina Leone XIII (CVA) 
+103.80   4104  10.000 JN61FV     Radio Vaticana 105 Live,Citta del Vaticano/Palazzina Leone XIII (CVA) 
+105.00   4104  15.000 JN61FV     Radio Vaticana 105 Live,Citta del Vaticano/Palazzina Leone XIII (CVA) 

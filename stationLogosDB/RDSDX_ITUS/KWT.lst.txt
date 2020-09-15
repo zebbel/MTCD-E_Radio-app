@@ -1,0 +1,45 @@
+ 87.50 _ ____   0.000 ______     (c) UKW/TV-Arbeitskreis der AGDX  www.fmlist.org September 14, 2020, 10:00
+ 87.90 H F888   2.000 LL39XI     Radio Kuwait Classical Arabic,Madinat al-Kuwayt (KUW) 
+ 88.40   69EC  20.000 LL39XI     OFM,Madinat al-Kuwayt (KUW) 
+ 88.80                LL39VM     KUWAIT PULSE,unknown 
+ 89.10                LL39XI     ,Madinat al-Kuwayt (KUW) (p)
+ 89.50   6DE8         LL39XI     Radio Kuwait Main Arabic,Madinat al-Kuwayt (KUW) 
+ 90.10 H        5.000 LL39XI     BBC WS Arabic,Madinat al-Kuwayt (KUW) 
+ 90.40 M       40.000 LL49EK     Marina FM,Failaka Island (KUW) 
+ 90.50 H        1.000            Radio Kuwait Classical Arabic,Al-Jelaa (AHD) 
+ 91.50 H        5.000 LL39XI     Idhaat al-Khaleej al-Arabiya,Madinat al-Kuwayt (KUW) 
+ 91.80                LL39VM     BBC WS,unknown 
+ 92.50 H        5.000 LL39XI     Easy FM,Madinat al-Kuwayt (KUW) 
+ 93.30 H        5.000 LL39XI     Radio Kuwait International,Madinat al-Kuwayt (KUW) 
+ 93.60                LL39XI     Radio Kuwait Arabic News,Madinat al-Kuwayt (KUW) 
+ 93.90 H 69EC  10.000 LL39VM     OFM,unknown 
+ 94.50 H 6CE9  10.000 LL39VM     Radio Kuwait 2,unknown 
+ 94.90 H        5.000 LL39XI     Radio Kuwait Folklore program,Madinat al-Kuwayt (KUW) 
+ 95.30 H 6DE8  10.000 LL39VM     Radio Kuwait Main Arabic,unknown 
+ 95.70 H        5.000 LL39XI     Radio Sawa,Madinat al-Kuwayt (KUW) 
+ 96.30                LL39XI     Easy FM,Madinat al-Kuwayt (KUW) 
+ 96.90 H        5.000 LL39XI     VOA,Madinat al-Kuwayt (KUW) 
+ 97.50 H       20.000 LL39XI     Radio Kuwait 2/Radio Kuwait Quran,Madinat al-Kuwayt (KUW) 
+ 98.80                LL39RQ     BFBS Gurkha Radio,Camp Buehring (JAH) 
+ 98.90 H 1303  20.000 LL39XI     Radio Kuwait 2/Radio Kuwait Quran,Madinat al-Kuwayt (KUW) 
+ 99.70 H 1005  20.000 LL39XI     SuperStation,Madinat al-Kuwayt (KUW) 
+100.10 H 6D02   5.000 LL39XI     BBC WS,Madinat al-Kuwayt (KUW) 
+100.20                LL39XI     Radio Kuwait Main Arabic,Madinat al-Kuwayt (KUW) 
+100.50 H       10.000 LL39XI     TV Audio Progr. 1&4,Madinat al-Kuwayt (KUW) 
+101.00 H       20.000 LL39XI     Radio Kuwait Classical Arabic,Madinat al-Kuwayt (KUW) 
+101.50 H        0.050 LL38VW     AFN,Al-Jaber AB (AHD) 
+102.10                LL39RQ     BFBS Radio,Camp Buehring (JAH) 
+                      LL39VM     SuperStation,unknown 
+102.40 H       20.000 LL39XI     Sawt Al-Khaleej FM,Madinat al-Kuwayt (KUW) 
+103.20 H       20.000 LL39XI     Radio Kuwait Al-Arabi FM,Madinat al-Kuwayt (KUW) 
+103.70 H 6BEA  20.000 LL39XI     Radio Kuwait Al-Arabi FM,Madinat al-Kuwayt (KUW) 
+104.30 H        0.050 LL39VI     AFN,Camp Doha (JAH) 
+       H        0.050 LL38VW     ,Al-Jaber AB (AHD) (c)
+104.90                LL39VM     Radio Kuwait 2,unknown 
+105.10 H       20.000 LL39XI     Radio Kuwait 2/Radio Kuwait Quran,Madinat al-Kuwayt (KUW) 
+105.90                LL39VM     Radio Kuwait Classical Arabic,unknown 
+106.30 H        5.000 LL39XI     RFI,Madinat al-Kuwayt (KUW) 
+106.60                LL39VM     Radio Kuwait Al-Arabi FM,unknown 
+107.00                LL39RQ     BFBS Radio 2,Camp Buehring (JAH) 
+107.30 H        5.000 LL39XI     Monte Carlo Doualiya,Madinat al-Kuwayt (KUW) 
+107.90 H        5.000 LL39VI     AFN,Camp Doha (JAH) 
